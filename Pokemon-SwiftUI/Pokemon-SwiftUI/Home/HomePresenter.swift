@@ -1,0 +1,8 @@
+//
+//  HomePresenter.swift
+//  Pokemon-SwiftUI
+//
+//  Created by Ravi navarro on 15/02/23.
+//
+
+import Foundation
